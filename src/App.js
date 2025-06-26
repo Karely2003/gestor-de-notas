@@ -49,6 +49,7 @@ function App() {
 
   return (
     <div className="app-container">
+      
       <h1>Gestor de Notas</h1>
       <SearchBar onSearch={setSearchTerm} />
       <NoteEditor onSave={handleSaveNote} noteToEdit={currentNote} />
