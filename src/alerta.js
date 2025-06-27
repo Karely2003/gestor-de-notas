@@ -27,7 +27,7 @@ export const confirmarEliminacion = async () => {
     showCancelButton: true,
     confirmButtonColor: '#d33',
     cancelButtonColor: '#3085d6',
-    confirmButtonText: 'Sí, eliminar',
+    confirmButtonText: 'Si, eliminar',
     cancelButtonText: 'Cancelar'
   });
 
