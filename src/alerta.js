@@ -6,7 +6,7 @@ export const mostrarAlerta = (mensaje) => {
     icon: 'warning',
     title: 'Campo vacio',
     text: mensaje,
-    confirmButtonColor: '#6f42c1'
+    confirmButtonColor: '#c16842'
   });
 };
 
